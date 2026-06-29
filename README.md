@@ -12,21 +12,38 @@
 
 </div>
 
-## Interested in                                          
-- Frontend Engineering                                     
-- SDK Development                                  
-- AI-powered Applications                                 
-- Flutter app development                                  
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+## Interested In
+
+- Frontend Engineering
+- SDK Development
+- AI-powered Applications
+- Flutter App Development
 - Open Source
--------                                          
- #  Current Focus
--  Building reusable React/Typescript SDKs
+
+</td>
+
+<td valign="top" width="50%">
+
+## Current Focus
+
+- Building reusable React/TypeScript SDKs
 - AI Emotion Recognition
 - Modern Frontend Architecture
-- Firebase Integration   
+- Firebase Integration
+
+</td>
+</tr>
+</table>
 
 # 💻 Tech Stack
-
+<table>
+<tr>
+<td valign="top top" width="5%">
+ 
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -35,6 +52,8 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
+<td valign="top" width="5%">
+ 
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -47,17 +66,23 @@
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
+<td valign="top" width="5%">
+ 
 ## Backend
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
 
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
+<td valign="top" width="5%">
+
 ## Database & Cloud
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+<td valign="top" width="5%">
 
 ## Tools
 
@@ -70,6 +95,10 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+ 
+</td>
+</tr>
+</table>
 
 # 🤝 Let's Connect
 
