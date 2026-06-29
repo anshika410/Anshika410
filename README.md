@@ -7,22 +7,13 @@
 
 
                                             ╚══════════════════════════════════════════════════════════════╝
-**Interested in**
-
-- Frontend Engineering
-- SDK Development
-- AI-powered Applications
-- Open Source
-- Developer Experience (DX)
-
-# 🚀 Current Focus
-
-- ⚛️ Building reusable React SDKs
-- 🤖 AI Emotion Recognition
-- 🔥 Firebase Integration
-- 🌐 Modern Frontend Architecture
-- 📦 Publishing npm Packages
-- ☁️ Scalable Web Applications
+## Interested in                                          # 🚀 Current Focus
+- Frontend Engineering                                     - ⚛️ Building reusable React SDKs
+- SDK Development                                          - 🤖 AI Emotion Recognition
+- AI-powered Applications                                  - 🌐 Modern Frontend Architecture
+- Flutter app development                                  - 🔥 Firebase Integration  
+- Open Source                                              - 📦 Publishing npm Packages
+  
 
 # 💻 Tech Stack
 
@@ -58,16 +49,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
----
-
-## AI & Developer Tools
-
-- Emotion Recognition
-- AI Avatar Rendering
-- SDK Development
-- REST APIs
-- npm Package Development
-
 ## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -80,20 +61,9 @@
 
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
-**🌐 Web Applications**
-
-Built responsive production-ready applications using
-
-- React
-- Firebase
-- Tailwind CSS
-- REST APIs
-
 # 🤝 Let's Connect
 
 📧 anshikatripathi429@gmail.com
-
----
 
 <div align="center">
 
