@@ -7,13 +7,18 @@
 
 
                                             ╚══════════════════════════════════════════════════════════════╝
-## Interested in                                          # 🚀 Current Focus
-- Frontend Engineering                                     - ⚛️ Building reusable React SDKs
-- SDK Development                                          - 🤖 AI Emotion Recognition
-- AI-powered Applications                                  - 🌐 Modern Frontend Architecture
-- Flutter app development                                  - 🔥 Firebase Integration  
-- Open Source                                              - 📦 Publishing npm Packages
-  
+## Interested in                                          
+- Frontend Engineering                                     
+- SDK Development                                  
+- AI-powered Applications                                 
+- Flutter app development                                  
+- Open Source
+-------                                          
+ # 🚀 Current Focus
+-  Building reusable React/Typescript SDKs
+- AI Emotion Recognition
+- Modern Frontend Architecture
+- Firebase Integration   
 
 # 💻 Tech Stack
 
