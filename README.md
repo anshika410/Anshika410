@@ -1,12 +1,17 @@
-                                            ╔══════════════════════════════════════════════════════════════╗
+<div align="center">
 
-                                                              **👋 Hi, I'm Anshika Tripathi**
+╔══════════════════════════════════════════════════════════════╗
 
-                                                          Software Developer • React Developer
-                                                      SDK Developer • AI Enthusiast • Open Source
+<h1>👋 Hi, I'm Anshika Tripathi</h1>
 
+<h3>ECE Graduate • Software Developer • React Developer</h3>
 
-                                            ╚══════════════════════════════════════════════════════════════╝
+<h3>SDK Developer • AI Enthusiast</h3>
+
+╚══════════════════════════════════════════════════════════════╝
+
+</div>
+
 ## Interested in                                          
 - Frontend Engineering                                     
 - SDK Development                                  
@@ -14,7 +19,7 @@
 - Flutter app development                                  
 - Open Source
 -------                                          
- # 🚀 Current Focus
+ #  Current Focus
 -  Building reusable React/Typescript SDKs
 - AI Emotion Recognition
 - Modern Frontend Architecture
