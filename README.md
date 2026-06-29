@@ -40,9 +40,9 @@
 </table>
 
 # 💻 Tech Stack
-<table>
+<table align = "center">
 <tr>
-<td valign="top top" width="5%">
+<td valign="top top">
  
 ## Languages
 
@@ -52,7 +52,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
-<td valign="top" width="5%">
+<td valign="top">
  
 ## Frontend
 
@@ -66,7 +66,7 @@
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-<td valign="top" width="5%">
+<td valign="top">
  
 ## Backend
 
@@ -74,7 +74,7 @@
 
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-<td valign="top" width="5%">
+<td valign="top">
 
 ## Database & Cloud
 
@@ -82,7 +82,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-<td valign="top" width="5%">
+<td valign="top">
 
 ## Tools
 
