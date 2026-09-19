@@ -1,39 +1,24 @@
 <div align="center">
-
 ╔══════════════════════════════════════════════════════════════╗
 
 <h1>👋 Hi, I'm Anshika Tripathi</h1>
 
-<h3>ECE Graduate • Software Developer • React Developer</h3>
+<h3>ECE Graduate • Flutter App Developer • React Developer</h3>
 
-<h3>SDK Developer • AI Enthusiast</h3>
+<h3>AI & ML Enthusiast</h3>
 
 ╚══════════════════════════════════════════════════════════════╝
-
 </div>
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-## Interested In
-
-- Frontend Engineering
-- SDK Development
-- AI-powered Applications
-- Flutter App Development
-- Open Source
-
-</td>
-
-<td valign="top" width="50%">
-
 ## Current Focus
 
-- Building reusable React/TypeScript SDKs
-- AI Emotion Recognition
-- Modern Frontend Architecture
-- Firebase Integration
+- SDKs
+- AI & ML
+- Flutter Applications
 
 </td>
 </tr>
@@ -59,10 +44,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
